@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Excel source and output data
+*.xlsx
+*.xls
+*.xlsm
+*.xltx
+*.xltm
+
+# Generated output folders and reports
+MergedFiles/
+Log/
+archived-sources-*/
+verify-diff-*.csv
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
