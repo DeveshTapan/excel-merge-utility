@@ -21,4 +21,5 @@ verify-diff-*.csv
 Thumbs.db
 .idea/
 .vscode/
-
+.pytest_cache/
+docx_render/
